@@ -22,12 +22,12 @@ const WorkExperience = [
     },
     {
         id: 3,
-        title: "Social Media Marketing",
-        company: "Gozo Cabs",
+        title: "SDE Intern",
+        company: "Gozo Technologies",
         yearsActive: "December 2020 - May 2021",
         information: [
-            "Worked on the improvement of the business by promoting business",
-            "Used different social media platforms to promote the business",
+            "",
+            "Write modern, performant, maintainable code for a diverse array of internal projects",
             "Worked well independently and on a team to solve problems."
         ],
     },
