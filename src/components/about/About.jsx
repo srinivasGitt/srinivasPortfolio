@@ -1,7 +1,7 @@
 import React from 'react';
 import './About.css';
 import Image from '../../assets/avatar-2.svg';
-import Resume from '../../assets/Srinivas.pdf';
+import Resume from '../../assets/SrinivasGollapalliEXP';
 import AboutBox from './AboutBox';
 import ScrollReveal from '../scrollreveal/ScrollReveal';
 import '../scrollreveal/ScrollReveal.css';
